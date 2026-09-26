@@ -122,12 +122,18 @@ e. **Role-Based Access Control Enhancements:**
 
 ---
 
-## AUTHOR
+## TEAM / CONTRIBUTORS
 
-**Mishank Kumar**  
-GitHub: https://github.com/mish4nk
+This project was developed as a collaborative team project.
 
----
+### Team Members
+- **Mishank Kumar** — Team Lead
+- **Shikha Maddheshiya** — Team Member
+- **Mradul Shakya** — Team Member
+
+### My Contribution
+- Contributed to frontend development using HTML, CSS, and JSP.
+- Collaborated with the team in developing and testing the application.
 
 ## PROJECT STATUS
 
